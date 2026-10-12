@@ -1,0 +1,26 @@
+.part1{
+ width: 100%;
+ text-align: right;
+}
+.main{
+ width:100% ;
+  text-align: center;
+}
+.main img{
+    width: 20%;
+}
+.main input{
+    width: 50%;
+}
+.main a{
+    background-color: darkgray;
+    color: black;
+}
+.part2{
+    width: 88px;
+    text-align: left;
+    margin-top: 6px;
+    padding: 2px 8px;
+    font-weight: 500;
+
+}
